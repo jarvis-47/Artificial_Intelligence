@@ -1,6 +1,6 @@
 # AI Solutions for 9-Piece Puzzle Game
 
-This repository contains a comprehensive Python implementation addressing various aspects of the classic 9-piece puzzle game. The project is structured into distinct parts, each focusing on a different algorithmic approach to solve the puzzle.
+This project contains a comprehensive Python implementation addressing various aspects of the classic 9-piece puzzle game. The project is structured into distinct parts, each focusing on a different algorithmic approach to solve the puzzle.
 
 **Part A:** Generates all possible states of the puzzle. The code efficiently lists these states and provides a sample of 10 states for demonstration.
 **Part B:** Implements a state transition function. Given the current state and an action (up, down, left, right), the function computes the resultant state.
